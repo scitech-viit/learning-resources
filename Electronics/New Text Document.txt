@@ -1,0 +1,12 @@
+Electronics:
+	voltage,
+	current,
+	resistor & resistance,
+	capacitor & capacitance,
+	Inductor & inductance,
+	LED,
+	DIODEs,
+	op amp,
+	555,
+	BJT (switch),
+	MOSFET (switch),
