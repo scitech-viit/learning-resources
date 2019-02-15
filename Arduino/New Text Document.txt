@@ -1,11 +1,11 @@
 Arduino:
-	why arduino,
-	what is arduino,
-	various boards,
-	methods of powering arduino,
-	arduino pinout and their uses,
-	arduino coding(imp functions),
-	interfacing digital sensors,
-	interfacing analog sensors,
-	pwm,
-	interrupts(optional)
+	1why arduino,
+	2what is arduino,
+	3various boards,
+	4methods of powering arduino,
+	5arduino pinout and their uses,
+	6arduino coding(imp functions),
+	7interfacing digital sensors,
+	8interfacing analog sensors,
+	9pwm,
+	10interrupts(optional)
